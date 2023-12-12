@@ -73,7 +73,7 @@ The main findings of this project can also be found at the post available [here]
 
 ## Acknowledgement
 
-The data sets used in this project and the guidelines were provided by Udacity. More information can be found on their [Github](https://github.com/besson/ds-capstone-project/tree/master/dog-project). 
+The datasets used in this project and the guidelines were provided by Udacity. More information can be found on their [Github](https://github.com/besson/ds-capstone-project/tree/master/dog-project). 
 
 ## Licensing
 
