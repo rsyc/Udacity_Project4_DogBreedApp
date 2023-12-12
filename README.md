@@ -20,7 +20,7 @@ This project is about writting a dog identifier algorithm. Given an image of a d
 
 -- **saved_models folder:** This folder contains outputs (weights) of CNN models created/modified in this project.
 
--- **bottleneck_features folder:** In this folder we have saved pre-computed bottleneck features from different pretrained CNN models available in Keras including VGG-16, VGG-19, ResNet-50, Inceprion, and Xception. In Step 4 and 5, we use transfer learning to create a CNN using these bottleneck features. 
+-- **bottleneck_features folder (not included due to the big size of the files but you can download the files from the links given in the Jupyter notebook):** In this folder we have saved pre-computed bottleneck features from different pretrained CNN models available in Keras including VGG-16, VGG-19, ResNet-50, Inceprion, and Xception. In Step 4 and 5, we use transfer learning to create a CNN using these bottleneck features. 
 
 -- **dog_app.ipynb:** This is the main jupyter notebook where all the steps towards building a dog breed classifier algorithm are explained. 
 
