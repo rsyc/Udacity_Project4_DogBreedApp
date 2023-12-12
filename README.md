@@ -61,8 +61,19 @@ The notebook includes different steps:
 
 The main findings of this project can also be found at the post available [here](https://medium.com/@rojan.saghian/lets-find-your-dog-breed-3b0eb5edbb3a).
 
+## Libraries used
 
+- sklearn==0.19.1
+- keras==2.0.9
+- numpy==1.12.1
+- pandas==0.23.3
+- matplotlib==2.1.0
+- cv2==3.3.1
+- PIL==5.2.0
 
+## Acknowledgement
+
+The data sets used in this project and the guidelines were provided by Udacity. More information can be found on their [Github](https://github.com/besson/ds-capstone-project/tree/master/dog-project). 
 
 ## Licensing
 
