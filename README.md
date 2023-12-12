@@ -59,7 +59,7 @@ The notebook includes different steps:
 	- At this last step we try our algorithm on couple of sample images of 2 human faces, 3 dog images, and one image that is neither a dog nor a human. Here we also suggest three possible points of improvement for the algorithm.
 
 
-The main findings of this project can also be found at the post available [here]().
+The main findings of this project can also be found at the post available [here](https://medium.com/@rojan.saghian/lets-find-your-dog-breed-3b0eb5edbb3a).
 
 
 
